@@ -1,0 +1,13 @@
+[
+
+    {
+        "keys":["f5"],
+        "command":"build","args":{"variant":"Run In Terminus"}
+    },
+
+    {
+        "keys":["f6"],
+        "command":"cancel build"
+    },
+
+]

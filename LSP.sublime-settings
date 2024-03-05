@@ -1,0 +1,14 @@
+{
+    "show_diagnostics_severity_level": 1,
+ 
+    "show_code_actions": "bulb",
+ 
+    "diagnostics_panel_include_severity_level": 1,
+   "clients":
+   {
+		"ruby":
+		{
+			"enabled": true
+		}
+	},
+}
